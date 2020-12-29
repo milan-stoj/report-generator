@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="images">
+    <file>guiResources/TMLC_NoTagline_FNLclearBLACk.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>guiResources/okay.png</file>
+    <file>guiResources/remove.svg</file>
+    <file>guiResources/lock.svg</file>
+    <file>guiResources/genRep.png</file>
+    <file>guiResources/CSV.png</file>
+  </qresource>
+</RCC>
